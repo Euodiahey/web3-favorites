@@ -1,0 +1,32 @@
+{
+  "config": [
+    {
+      "name": "WebName",
+      "options": [
+        {
+          "type": "text",
+          "key": "webname",
+          "value": "gbbits",
+          "placeholder": "gbbits-todos"
+        }
+      ]
+    },
+    {
+      "name": "todos",
+      "options": [  
+        {
+          "type": "text",
+          "key": "todos1",
+          "value": "",
+          "placeholder": "todos name"
+        },
+        {
+          "type": "text",
+          "key": "todos2",
+          "value": "",
+          "placeholder": "todos name"
+        }
+      ]
+    }
+  ]
+}
